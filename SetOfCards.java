@@ -1,3 +1,12 @@
+/********************************************
+ * @author Ekamjot Singh
+ * ID: #3167888
+ * 
+ * Description: SetOfCards is the class that is responsible for creating set of cards
+ *          This class is superclass for Deck and Hand Class
+ * 
+ ********************************************/
+
 import java.util.ArrayList;
 
 public abstract class SetOfCards

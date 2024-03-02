@@ -1,3 +1,12 @@
+/********************************************
+ * @author Ekamjot Singh
+ * ID: #3167888
+ * 
+ * Description: Hand Class that is the subclass of SetOfCards class and evaluates the score that is in a deck
+ *      This is done by methods.
+ * 
+ ********************************************/
+
 import java.util.ArrayList;
 import java.util.Collections;
 

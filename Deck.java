@@ -1,3 +1,12 @@
+/********************************************
+ * @author Ekamjot Singh
+ * ID: #3167888
+ * 
+ * Description: Deck class is the class that creates a deck of cards that are to be used by the user
+ *      This class is the extension (subclass) of the SetOfCards classs
+ * 
+ ********************************************/
+
 // importing values
 import java.util.ArrayList;
 import java.util.Collections;

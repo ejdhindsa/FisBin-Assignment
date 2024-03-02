@@ -1,3 +1,11 @@
+/********************************************
+ * @author Ekamjot Singh
+ * ID: #3167888
+ * 
+ * Description: Card Class that is responsible for creating cards
+ * 
+ ********************************************/
+
 public class Card
 {
   // creating variables to be used
