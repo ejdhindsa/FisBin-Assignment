@@ -20,17 +20,24 @@ public class Hand extends SetOfCards
     } // end of full-arg constructor
     
     // UTILITY Methods
+    
+    /*
+     * evaluate() will have multiple static methods
+     * combinationChecker() will check if there are any combinations and return number of combinations for each
+     *      face as well as the points that are to be awarded, this is done through returning an array of numbers
+     */
     public String evaluate()
     {
-        // variables
-        int count = 0;
+        // copying the said arraylist and adding it to the new one
+        ArrayList auxillaryArray = new ArrayList();
         
-        // since 
-        // First doing calculations for four for a kind, this can be done using a for loop
-        for(int i = 0; i < cards.size(); i++)
+        for(Card c : cards)
         {
-            
-        }
+            auxillaryArray.add(c);
+        } // end of for-each
+        
+        
+        
         
         return "Check";
     } // end of evaluate()

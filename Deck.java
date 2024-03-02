@@ -50,9 +50,9 @@ public class Deck extends SetOfCards
         
     } // end of createCards()
     
-    public void shuffle()
+    public void shuffle(ArrayList<Card> cards)
     {
-        Collections.shuffle(cards);
+        Collections.shuffle(this.cards);
     } // end of shuffle()
     
     public Card deal()
