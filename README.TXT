@@ -4,9 +4,7 @@ Tell the reader (someone who does not know anything about this project)
 all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: FisBin - ACS1904 Assignment
+PURPOSE OF PROJECT: Assignment No. 2 for ACS-1904
+VERSION or DATE: v1.0 
+AUTHORS: Ekamjot Singh
